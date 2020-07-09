@@ -15,7 +15,7 @@ Experienced in the following languages/technologies:
 
 * Python
 * Linux
-* Fedora, Ubuntu, Red Hat Enterprise Linux, CentOS, ans SUSE.
+* Fedora, Ubuntu, Red Hat Enterprise Linux, CentOS, and SUSE.
 * Shell scripting (bash for the most part)
 * Ansible
 * C/C++
