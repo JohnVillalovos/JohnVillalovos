@@ -4,7 +4,7 @@ I'm a software developer who primarily does Python programming.
 
 Home page: https://www.sodarock.com/
 
-Have extensive experience in Bare Metal Provisioing. Was a core developer on
+Have extensive experience in Bare Metal Provisioning. Was a core developer on
 OpenStack's bare-metal provisioning project called Ironic.
 https://www.stackalytics.com/?user_id=happycamp&metric=commits
 
