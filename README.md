@@ -25,7 +25,7 @@ Experienced in the following languages/technologies:
 
 <p align="center">
     <a href="https://github.com/JohnVillalovos/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnVillalovos&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVillalovos&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=JohnVillalovos&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JohnVillalovos&langs_count=8&layout=compact" />
     </a>
 </p>
